@@ -1,10 +1,26 @@
 <p align="center">
   <img src="banner.png" width="100%" alt="GPT-v8 Banner">
 </p>
+
 # 🤖 GPT-v8 — Static HTML AI Chat UI
 
-**GPT-v8** is a sleek, responsive AI chat interface built entirely with **HTML, CSS, and JavaScript** — no frameworks or build tools required.  
-It’s designed to function like ChatGPT or Gemini, powered by your own backend proxy to keep API keys safe.
+**GPT-v8** is a modern, lightweight, and responsive AI chat interface built entirely with **HTML, CSS, and JavaScript** — no frameworks or build tools required.  
+It functions like ChatGPT or Gemini, powered by your own backend proxy to keep your API keys safe and secure.
+
+---
+
+## 🧩 Live Demo
+👉 [Try GPT-v8 Online](https://akinsokpah1.github.io/GPT-v8/)
+
+---
+
+## 🏷️ Badges
+
+![Static Badge](https://img.shields.io/badge/HTML-Chat_UI-orange)
+![Static Badge](https://img.shields.io/badge/JavaScript-Vanilla-yellow)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Author](https://img.shields.io/badge/By-akinsokpah1-lightgrey)
 
 ---
 
@@ -21,13 +37,12 @@ It’s designed to function like ChatGPT or Gemini, powered by your own backend 
 
 ---
 
-## 🧱 Project Structure
+## 🧰 Tech Stack
+
+- **Frontend:** HTML5, CSS3, Vanilla JavaScript  
+- **Backend:** Node.js / Express or Cloudflare Worker  
+- **API Provider:** OpenAI, Gemini, or any chat-completion-compatible model  
+
 ---
 
-## 🚀 Quick Start
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/yourusername/GPT-v8.git
-cd GPT-v8
+## 🧱 Project Structure
