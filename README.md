@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="GPT-v8 Banner">
+</p>
 # 🤖 GPT-v8 — Static HTML AI Chat UI
 
 **GPT-v8** is a sleek, responsive AI chat interface built entirely with **HTML, CSS, and JavaScript** — no frameworks or build tools required.  
