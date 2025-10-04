@@ -2,47 +2,56 @@
   <img src="banner.png" width="100%" alt="GPT-v8 Banner">
 </p>
 
-# 🤖 GPT-v8 — Static HTML AI Chat UI
+<h1 align="center">🤖 GPT-v8 — Static HTML AI Chat UI</h1>
 
-**GPT-v8** is a modern, lightweight, and responsive AI chat interface built entirely with **HTML, CSS, and JavaScript** — no frameworks or build tools required.  
-It functions like ChatGPT or Gemini, powered by your own backend proxy to keep your API keys safe and secure.
-
----
-
-## 🧩 Live Demo
-👉 [Try GPT-v8 Online](https://akinsokpah1.github.io/GPT-v8/)
-
----
-
-## 🏷️ Badges
-
-![Static Badge](https://img.shields.io/badge/HTML-Chat_UI-orange)
-![Static Badge](https://img.shields.io/badge/JavaScript-Vanilla-yellow)
-![License: MIT](https://img.shields.io/badge/License-MIT-blue)
-![Status](https://img.shields.io/badge/Status-Active-success)
-![Author](https://img.shields.io/badge/By-akinsokpah1-lightgrey)
+<p align="center">
+  <a href="https://github.com/akinsokpah1/GPT-v8"><img src="https://img.shields.io/badge/HTML-Chat_UI-orange" alt="HTML"></a>
+  <a href="https://github.com/akinsokpah1/GPT-v8"><img src="https://img.shields.io/badge/JavaScript-Vanilla-yellow" alt="JS"></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue" alt="License: MIT"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Status-Active-success" alt="Status"></a>
+</p>
 
 ---
 
-## ✨ Features
-
-- 🧠 **ChatGPT-style chat UI** with user & assistant messages  
-- ⚙️ **Custom settings** — model, temperature, max tokens  
-- 💬 **Editable system prompt** for personality control  
-- 💾 **Local chat memory** stored in your browser  
-- 📤 **Export / Import** full conversations  
-- ⚡ **Streaming support** (if backend supports it)  
-- 🛡️ **API-safe design** — no keys in frontend code  
-- 📱 **Responsive layout** — works beautifully on all devices  
+## 🧠 Overview
+**GPT-v8** is a **lightweight static HTML chatbot interface** inspired by Gemini and ChatGPT.  
+It’s built for **speed, simplicity, and full local control** — no frameworks required.  
+Perfect for developers who want to self-host an AI chat UI connected to OpenAI or other LLM APIs.
 
 ---
 
-## 🧰 Tech Stack
-
-- **Frontend:** HTML5, CSS3, Vanilla JavaScript  
-- **Backend:** Node.js / Express or Cloudflare Worker  
-- **API Provider:** OpenAI, Gemini, or any chat-completion-compatible model  
+## 🌐 Live Demo
+> 🚀 Coming soon!  
+> Once deployed via **GitHub Pages** or **Vercel**, your link will appear here:
+> [https://akinsokpah1.github.io/GPT-v8/](https://akinsokpah1.github.io/GPT-v8/)
 
 ---
 
-## 🧱 Project Structure
+## 🧩 Features
+- ⚡ **Single-page static HTML app** (no build tools)
+- 💬 Smooth chat UI with user/assistant message bubbles
+- 📁 **LocalStorage memory** (save & reload chats)
+- 🧠 Customizable **system prompt, temperature, and model**
+- 🌍 Works with **any LLM API endpoint**
+- 🔒 **No API key exposed** — uses secure proxy backend
+- 🧑‍💻 Easily extendable with JS modules or CSS themes
+
+---
+
+## 🛠️ Tech Stack
+| Component | Technology |
+|------------|-------------|
+| Frontend | HTML5, CSS3, Vanilla JavaScript |
+| Backend (Proxy) | Node.js / Express or Cloudflare Worker |
+| API | OpenAI / Gemini compatible endpoints |
+| Storage | Browser LocalStorage |
+| License | MIT |
+
+---
+
+## 🚀 Installation & Setup
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/akinsokpah1/GPT-v8.git
+cd GPT-v8
